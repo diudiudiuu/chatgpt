@@ -1,0 +1,42 @@
+[
+    {
+        "name": "官方推荐",
+        "icon": "👀",
+        "web": [
+            {
+                "url": "https://chat.openai.com/",
+                "logo": "/logos/chatgpt.svg",
+                "title": "OpenAI ChatGPT",
+                "desc": "官方提供。"
+            }
+        ]
+    },
+    {
+        "name": "国内直达",
+        "icon": "👀",
+        "children": [
+            {
+                "name": "免费使用",
+                "web": [
+                    {
+                        "url": "https://chatbot.theb.ai/",
+                        "logo": "/logos/chatgpt.svg",
+                        "title": "BAI Chat",
+                        "desc": "BAI Chat"
+                    }
+                ]
+            },
+            {
+                "name": "次数限制",
+                "web": [
+                    {
+                        "url": "https://chatbot.theb.ai/",
+                        "logo": "/logos/chatgpt.svg",
+                        "title": "BAI Chat",
+                        "desc": "BAI Chat"
+                    }
+                ]
+            }
+        ]
+    }
+]
