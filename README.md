@@ -1,5 +1,7 @@
 # chatgpt
 
+## 正在完善中
+
 ## 基本信息
 
 - 网站链接  <https://chatgpt.diudiuu.com>
