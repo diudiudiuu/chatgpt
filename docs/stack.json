@@ -7,12 +7,41 @@
                 "url": "https://chat.openai.com/",
                 "logo": "/logos/chatgpt.svg",
                 "title": "OpenAI ChatGPT",
-                "desc": "官方提供。"
+                "desc": "OpenAI官方提供。"
             }
         ]
     },
     {
         "name": "国内直达",
+        "icon": "👀",
+        "children": [
+            {
+                "name": "免费使用",
+                "web": [
+                    {
+                        "url": "https://chatbot.theb.ai/",
+                        "logo": "/logos/chatgpt.svg",
+                        "title": "BAI Chat",
+                        "desc": "BAI Chat"
+                    },
+                    {
+                        "url": "https://chat.bo-e.com/",
+                        "logo": "/logos/chatgpt.svg",
+                        "title": "博弈Ai",
+                        "desc": "一个可以对话、聆听、学习和挑战的自然语言Ai机器人"
+                    },
+                    {
+                        "url": "http://ai.usesless.com/",
+                        "logo": "/logos/chatgpt.svg",
+                        "title": "小莓用AI",
+                        "desc": "AIGC，提高生产力，优化工作流程"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "海外世界",
         "icon": "👀",
         "children": [
             {
@@ -38,5 +67,17 @@
                 ]
             }
         ]
-    }
+    },
+    {
+        "name": "Abyss导航",
+        "icon": "👀",
+        "web": [
+            {
+                "url": "https://abyss.diudiuu.com/",
+                "logo": "/logos/abyss.png",
+                "title": "Abyss Diuu导航",
+                "desc": "Abyss Diuu专门为开发者提供的导航网站。"
+            }
+        ]
+    },
 ]
