@@ -1,35 +1,11 @@
 [
     {
-        "name": "官方推荐",
-        "icon": "👀",
-        "web": [
-            {
-                "url": "https://chat.openai.com/",
-                "logo": "/logos/chatgpt.svg",
-                "title": "OpenAI ChatGPT",
-                "desc": "OpenAI官方提供。"
-            }
-        ]
-    },
-    {
         "name": "国内直达",
         "icon": "👀",
         "children": [
             {
-                "name": "免费使用",
+                "name": "国内免费",
                 "web": [
-                    {
-                        "url": "https://chatbot.theb.ai/",
-                        "logo": "/logos/chatgpt.svg",
-                        "title": "BAI Chat",
-                        "desc": "BAI Chat"
-                    },
-                    {
-                        "url": "https://chat.bo-e.com/",
-                        "logo": "/logos/chatgpt.svg",
-                        "title": "博弈Ai",
-                        "desc": "一个可以对话、聆听、学习和挑战的自然语言Ai机器人"
-                    },
                     {
                         "url": "http://ai.usesless.com/",
                         "logo": "/logos/chatgpt.svg",
@@ -45,7 +21,7 @@
         "icon": "👀",
         "children": [
             {
-                "name": "免费使用",
+                "name": "海外免费",
                 "web": [
                     {
                         "url": "https://chatbot.theb.ai/",
@@ -56,15 +32,27 @@
                 ]
             },
             {
-                "name": "次数限制",
+                "name": "海外限制",
                 "web": [
                     {
-                        "url": "https://chatbot.theb.ai/",
+                        "url": "https://chat.bo-e.com/",
                         "logo": "/logos/chatgpt.svg",
-                        "title": "BAI Chat",
-                        "desc": "BAI Chat"
+                        "title": "博弈Ai",
+                        "desc": "一个可以对话、聆听、学习和挑战的自然语言Ai机器人"
                     }
                 ]
+            }
+        ]
+    },
+    {
+        "name": "官方推荐",
+        "icon": "👀",
+        "web": [
+            {
+                "url": "https://chat.openai.com/",
+                "logo": "/logos/chatgpt.svg",
+                "title": "OpenAI ChatGPT",
+                "desc": "OpenAI官方提供,有条件可以访问。"
             }
         ]
     },
