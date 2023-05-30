@@ -13,6 +13,17 @@
                         "desc": "AIGC，提高生产力，优化工作流程"
                     }
                 ]
+            },
+            {
+                "name": "国内限制",
+                "web": [
+                    {
+                        "url": "https://ai.douresources.com/",
+                        "logo": "/logos/chatgpt.svg",
+                        "title": "抖资源",
+                        "desc": "需要关注微信公众号进行登录"
+                    }
+                ]
             }
         ]
     },
